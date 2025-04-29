@@ -42,7 +42,7 @@ Welcome to my personal Python playground! Here, I'll be diving deep into classic
    cd Data-Structure-and-Algorithms
    ```
 
-2. **Explore** the folder structure under `/data-structures` and `/algorithms`.
+2. **Explore** the folder structure under `/Data-Structure-and-Algorithms/*`.
 3. **Run** examples with Python 3:
 
    ```bash
