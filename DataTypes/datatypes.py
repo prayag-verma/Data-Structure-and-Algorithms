@@ -135,3 +135,7 @@ print(2 in a)  # Output: False
 # None
 a = None
 print(a)  # Output: None
+# AUTOGEN_EDIT - Added small example to improve docs
+
+# Example usage:
+# >>> # small example added by script
