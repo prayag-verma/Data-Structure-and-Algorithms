@@ -1,3 +1,5 @@
+# Different ways to find the maximum element in an array
+
 ar = [3, 17, 2, 10, 8]
 
 print(f"Original array list:", ar)
