@@ -7,21 +7,20 @@ print("Maximum element in the array using max() function:", max(ar))
 
 # Method 2: Simply sorting the array in ascending order and printing the last element ar [-1]
 ar.sort(reverse=False)
-
 print(f"Last element of array list-sorted in ascending order:", ar[-1])
 
-# Method 3: Simply printing the last element of the sorted array using a loop
+# Method 3: Simply printing the last element of the ascending order sorted array using a loop
 for i in range(len(ar)):
     if i == len(ar) -1:
         print("Last element of the sorted array using a loop:", ar[i])
         break
 
+# Method 4: Simply printing the first element of the descending order sorted array
 ar.sort(reverse=True)
 
-# Method 4: Simply printing the first element of the sorted array in descending order
 for i in range(len(ar)):
     if i == 0:
-        print("First element of the sorted array in descending order:", ar[i])
+        print("First element of the descending order sorted array:", ar[i])
         break
 
 # Method 5: Sorting in ascending order without using build-in function and then printing the last element  
