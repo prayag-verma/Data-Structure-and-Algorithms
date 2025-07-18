@@ -24,7 +24,6 @@ for i in range(len(ar)):
         print("First element of the sorted array in descending order:", ar[i])
         break
 
-
 # Method 5: Sorting in ascending order without using build-in function and then printing the last element  
 ar2 = [3, 17, 2, 10, 8]
 
