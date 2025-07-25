@@ -7,7 +7,7 @@ print(f"Original array list:", ar)
 # Method 1: Simply using max() function to find the maximum element
 print("Maximum element in the array using max() function:", max(ar))
 
-# Method 2: Simply sorting the array in ascending order and printing the last element ar [-1]
+
 ar.sort(reverse=False)
 print(f"Last element of array list-sorted in ascending order:", ar[-1])
 
