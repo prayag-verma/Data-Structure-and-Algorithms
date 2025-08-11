@@ -9,7 +9,7 @@
 # 6. Tuples: Immutable ordered collections, e.g., (1, 2, 3), ("a", "b", "c")
 # 7. Dictionaries: Key-value pairs, e.g., {"key": "value"}, {"name": "Alice", "age": 25}
 # 8. Sets: Unordered collections of unique items, e.g., {1, 2, 3}, {"a", "b", "c"}
-# 9. None: Represents the absence of a value
+# 9. None: Represents the absence of a 
 
 
 # Example of using different data types
