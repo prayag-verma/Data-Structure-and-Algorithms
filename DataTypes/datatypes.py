@@ -12,7 +12,7 @@
 # 9. None: Represents the absence of a value
 
 
-# Example of using different data type
+# Example of using different data types
 
 # ===================================================================
 
