@@ -1,0 +1,4 @@
+
+# AUTOGEN_EDIT - Added small example to improve docs
+
+<!-- small example added by script -->
