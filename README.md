@@ -170,3 +170,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 > Thanks for stopping by—happy coding! 🐍💻
 
+
+# AUTOGEN_EDIT - Added small example to improve docs
+
+<!-- small example added by script -->
