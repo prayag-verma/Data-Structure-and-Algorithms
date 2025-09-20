@@ -48,3 +48,7 @@ for i in range(len(ar2)):
 
 print("Sorted array in descending:", ar2)
 print("First element value:", ar2[0])
+# AUTOGEN_EDIT - Added small example to improve docs
+
+# Example usage:
+# >>> # small example added by script
